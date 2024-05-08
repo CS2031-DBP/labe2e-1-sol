@@ -1,0 +1,16 @@
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/ride/infrastructure/RideRepositoryTest.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/vehicle/infrastructure/VehicleRepositoryTest.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/review/infrastructure/ReviewRepositoryTest.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/AbstractContainerBaseTest.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/passenger/application/PassengerControllerIntegrationTest.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/review/domain/ReviewTest.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/passenger/infrastructure/PassengerRepositoryTest.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/LabE2e01ApplicationTests.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/ride/domain/RideTest.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/driver/infrastructure/DriverRepositoryTest.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/ride/application/RideControllerIntegrationTest.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/driver/application/DriverControllerIntegrationTest.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/driver/domain/DriverTest.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/passenger/domain/PassengerTest.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/review/application/ReviewControllerIntegrationTest.java
+/Users/mateonoel/Desktop/lab-e2e-01/src/test/java/org/e2e/labe2e01/vehicle/domain/VehicleTest.java

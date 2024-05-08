@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.e2e.labe2e01.vehicle.domain.VehicleTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 s -- in org.e2e.labe2e01.vehicle.domain.VehicleTest

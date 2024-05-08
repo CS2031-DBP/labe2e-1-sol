@@ -1,0 +1,16 @@
+org/e2e/labe2e01/review/domain/ReviewTest.class
+org/e2e/labe2e01/vehicle/infrastructure/VehicleRepositoryTest.class
+org/e2e/labe2e01/LabE2e01ApplicationTests.class
+org/e2e/labe2e01/driver/domain/DriverTest.class
+org/e2e/labe2e01/driver/application/DriverControllerIntegrationTest.class
+org/e2e/labe2e01/review/application/ReviewControllerIntegrationTest.class
+org/e2e/labe2e01/driver/infrastructure/DriverRepositoryTest.class
+org/e2e/labe2e01/ride/application/RideControllerIntegrationTest.class
+org/e2e/labe2e01/review/infrastructure/ReviewRepositoryTest.class
+org/e2e/labe2e01/passenger/application/PassengerControllerIntegrationTest.class
+org/e2e/labe2e01/passenger/domain/PassengerTest.class
+org/e2e/labe2e01/vehicle/domain/VehicleTest.class
+org/e2e/labe2e01/ride/infrastructure/RideRepositoryTest.class
+org/e2e/labe2e01/passenger/infrastructure/PassengerRepositoryTest.class
+org/e2e/labe2e01/AbstractContainerBaseTest.class
+org/e2e/labe2e01/ride/domain/RideTest.class
